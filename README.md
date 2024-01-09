@@ -17,9 +17,15 @@ Flexible Scanning Options: Option to rescan the same host, scan a different host
 
 Enhanced Network Security: By managing port accessibility, it minimizes the network's exposure to potential threats.
 
+
 Prerequisites
+
 Before you install and run AntiPort, ensure you have the following:
+
 Python (version 3.x or later)
+
 Paramiko library
+
 PyFiglet library
+
 A basic understanding of network concepts and port management.
