@@ -1,7 +1,7 @@
 # Anti-Port
 
 Python Port Closer
-Introduction
+
 
 Welcome to AntiPort, a dynamic tool designed for enhancing network security through effective port management. This tool allows network administrators and cybersecurity professionals to scan, identify, and manage open network ports on host machines. By closing unnecessary ports, AntiPort significantly reduces the risk of unauthorized access and potential security breaches, thus fortifying the network's defense.
 
