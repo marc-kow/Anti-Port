@@ -22,7 +22,9 @@ Prerequisites
 
 Before you install and run AntiPort, ensure you have the following:
 
-Python (version 3.x or later)
+Python (version 3.x or later) - PyCharm IDE Preferred
+
+Copy code from https://gist.github.com/marc-kow AntiPort.py and edit as you see fit!
 
 Paramiko library
 
